@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Custom-App-1
+Comment=Really Old Application
+Exec=/home/lab-user/Desktop/Lab-Files/EDU-210/customapp.sh
+Icon=accessories-dictionary
+Path=/home/lab-user/Desktop/Lab-Files/EDU-210/
+Terminal=true
+StartupNotify=false

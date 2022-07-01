@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Spoofed Packets
+Comment=Sends spoofed packets to target server
+Exec=/home/lab-user/Desktop/Lab-Files/EDU-210/spoof.sh
+Icon=empathy
+Path=/home/lab-user/Desktop/Lab-Files/EDU-210/
+Terminal=true
+StartupNotify=false

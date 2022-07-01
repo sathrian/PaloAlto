@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=App Generator
+Comment=Generates application traffic
+Exec=/home/lab-user/Desktop/Lab-Files/EDU-210/app-gen1.sh
+Icon=cs-color
+Path=/home/lab-user/Desktop/Lab-Files/EDU-210/
+Terminal=true
+StartupNotify=false

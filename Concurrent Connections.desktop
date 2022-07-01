@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Concurrent Connections
+Comment=Sends multiple connections to target
+Exec=/home/lab-user/Desktop/Lab-Files/EDU-210/lorisNmap.sh
+Icon=preferences-desktop-keyboard-shortcuts
+Path=/home/lab-user/Desktop/Lab-Files/EDU-210/
+Terminal=true
+StartupNotify=false

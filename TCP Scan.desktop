@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=TCP Scan
+Comment=Runs a TCP scan
+Exec=/home/lab-user/Desktop/Lab-Files/EDU-210/tcpscan.sh
+Icon=gnome-mines
+Path=/home/lab-user/Desktop/Lab-Files/EDU-210/
+Terminal=true
+StartupNotify=false
